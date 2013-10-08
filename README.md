@@ -1,4 +1,4 @@
 Rational_Reckoner
 =================
 
-Rational Reckoner
+The program does simple arithmetic operations with natural fractions.
